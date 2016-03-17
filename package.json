@@ -28,7 +28,7 @@
   "homepage": "https://github.com/duzun/gulp-multidest#readme",
   "devDependencies": {
     "gulp": "^3.9",
-    "verup": "^1.4.0"
+    "verup": "^1.x"
   },
   "dependencies": {
     "lazypipe": "^1.x"

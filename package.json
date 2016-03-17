@@ -1,0 +1,43 @@
+{
+  "name": "gulp-multidest",
+  "version": "1.0.0",
+  "description": "pipe gulp streams to multiple destinations",
+  "main": "index.js",
+  "scripts": {
+    "verup": "verup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duzun/gulp-multidest.git"
+  },
+  "keywords": [
+    "gulp",
+    "pipe",
+    "multi",
+    "dest",
+    "multiple",
+    "destination",
+    "write"
+  ],
+  "author": "Dumitru Uzun <contanct@duzun.me> (https://DUzun.Me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duzun/gulp-multidest/issues"
+  },
+  "homepage": "https://github.com/duzun/gulp-multidest#readme",
+  "devDependencies": {
+    "gulp": "^3.9",
+    "verup": "^1.4.0"
+  },
+  "dependencies": {
+    "lazypipe": "^1.x"
+  },
+  "extra": {
+    "verup": {
+      "files": [
+        "index.js"
+      ]
+    }
+  }
+}

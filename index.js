@@ -3,7 +3,7 @@
  *
  * @license  MIT
  * @author   Dumitru Uzun (DUzun.Me)
- * @version  1.0.0
+ * @version  1.0.1
  * @repo     https://github.com/duzun/gulp-multidest
  */
 
@@ -17,7 +17,7 @@ module.exports = function multidest(paths, options) {
 
     // Ensure paths is an array
     if ( typeof paths == 'string' ) {
-        path = [paths];
+        paths = [paths];
     }
 
     // Clone `options` object, if provided

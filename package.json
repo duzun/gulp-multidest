@@ -1,6 +1,6 @@
 {
   "name": "gulp-multidest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pipe gulp streams to multiple destinations",
   "main": "index.js",
   "scripts": {
